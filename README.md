@@ -102,29 +102,33 @@ ax.set_title('Prediction')
  
  Scaled_data plot:
 
- ![alt text](image.png)
+<img width="580" height="436" alt="image" src="https://github.com/user-attachments/assets/b9f19738-f003-4cd2-8c99-5895e59f3f2f" />
 
 Decomposed plot:
 
-![alt text](image-1.png)
+<img width="650" height="480" alt="image-1" src="https://github.com/user-attachments/assets/63bbc42a-fd56-4575-b5f1-01280ee9da69" />
+
 
 Test prediction:
 
-![alt text](image-2.png)
+<img width="607" height="459" alt="image-2" src="https://github.com/user-attachments/assets/ff9a6684-2059-4d6d-bcdc-3619154a91cb" />
+
 
 Model performance metrics:
 
 RMSE:
 
-![alt text](image-4.png)
+<img width="230" height="37" alt="image-4" src="https://github.com/user-attachments/assets/72bc7c41-9836-4e5a-8d8f-096d19fec7e2" />
 
 Standard deviation and mean:
 
-![alt text](image-5.png)
+<img width="377" height="32" alt="image-5" src="https://github.com/user-attachments/assets/958eb2e9-bc13-48f7-bf04-5d600a097437" />
+
 
 Final prediction:
 
-![alt text](image-3.png)
+<img width="653" height="497" alt="image-3" src="https://github.com/user-attachments/assets/00be06b3-9488-4312-9b8f-baad79ec79fc" />
+
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
